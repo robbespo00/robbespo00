@@ -10,9 +10,6 @@
 <h3>🔧 Technologies & Tools</h3>
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logoColor=white&color=2bbc8a)
 
-<h3>📫 How to reach me</h3>
-![](https://img.shields.io/github/followers/robbespo00?style=social)
-
 
 <!--
 Here are some ideas to get you started:
