@@ -1,8 +1,10 @@
-[![Header](https://github.com/robbespo00/robbespo00/blob/main/header.png)]
+![Header](https://github.com/robbespo00/robbespo00/blob/main/header.png)
 ### Hi there 👋
 
 <!--
 **robbespo00/robbespo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!-->
+
 
 Here are some ideas to get you started:
 
