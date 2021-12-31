@@ -5,7 +5,7 @@
 **robbespo00/robbespo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 <h3> I am Roberto Esposito and I am 21 years old 👨‍💻</h3>
-<h6> Currently I am enrolled in the University of Pisa 🇮🇹 as master degree student in Artificial Intelligence 🧠</h6>
+<h6> Currently I am enrolled in the University of Pisa as master degree student in Artificial Intelligence 🤖</h6>
 
 Here are some ideas to get you started:
 
