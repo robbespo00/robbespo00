@@ -7,9 +7,10 @@
 
 <h3> I am Roberto Esposito and I am 21 years old 👨‍💻</h3>
 <h6> Currently I am enrolled in the University of Pisa as master degree student in Artificial Intelligence 🤖. I got my bachelor degree in Computer Science 💻 at the University of Salerno. My interests are: Artificial Intelligence, Machine Learning, Deep Learning and Quantum Computing. </h6>
+<!--
 <h3>🔧 Technologies & Tools</h3>
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logoColor=white&color=2bbc8a)
-
+-->
 
 <!--
 Here are some ideas to get you started:
