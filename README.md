@@ -1,26 +1,26 @@
-<!--![Header](https://github.com/robbespo00/robbespo00/blob/main/header.png)-->
-### Hi there 👋
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Roberto Esposito :computer:<br>
+  <br>
+ </abc>
+<h2 align="center"> 
+ <center>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" class="center">
+ </center>
+</h2>
+</h2>
 
-<!--
-**robbespo00/robbespo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!-->
 
-<h3> I am Roberto Esposito and I am 21 years old 👨‍💻</h3>
-<h6> Currently I am enrolled in the University of Pisa as master degree student in Artificial Intelligence 🤖. I got my bachelor degree in Computer Science 💻 at the University of Salerno. My interests are: Artificial Intelligence, Machine Learning, Deep Learning and Quantum Computing. </h6>
-<!--
-<h3>🔧 Technologies & Tools</h3>
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logoColor=white&color=2bbc8a)
--->
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<!--
-Here are some ideas to get you started:
+- :computer: Currently enrolled as MSc. student @ University of Pisa
+- :zap: I'm interested in Machine Learning and Information Retrieval 
+- :hourglass_flowing_sand: Working on Approximated Nearest Neighbor Search @ University of Pisa
+- :rocket: Always ready to collaborate for interesting projects
+- :dart: Graduated with honors as BSc. student @ University of Salerno <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robbespo00) [![Github Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robbespo00)
+
