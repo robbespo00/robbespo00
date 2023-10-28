@@ -14,10 +14,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: Currently enrolled as MSc. student @ University of Pisa
-- :zap: I'm interested in Machine Learning and Information Retrieval 
+- :zap: I'm interested in Machine Learning and Algorithms
 - :hourglass_flowing_sand: Working on Approximated Nearest Neighbor Search @ University of Pisa
 - :rocket: Always ready to collaborate for interesting projects
+- :computer: Obtained Master's degree in Computer Science @ University of Pisa
 - :dart: Graduated with honors as BSc. student @ University of Salerno <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
