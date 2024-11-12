@@ -9,11 +9,11 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :zap: I'm interested in Machine Learning and Algorithms
-- :hourglass_flowing_sand: Working on Approximated Nearest Neighbor Search @ University of Pisa
-- :rocket: Always ready to collaborate for interesting projects
-- :computer: Obtained Master's degree in Computer Science @ University of Pisa
-- :dart: Graduated with honors as BSc. student @ University of Salerno <br>
+- :zap: I'm interested in AI and Information Retrieval
+- :hourglass_flowing_sand: Currently I am a Research Engineer @ Weaviate
+- :rocket: Previously worked on Approximated Nearest Neighbor Search @ University of Pisa & Italian National Research Center
+- :computer: Always ready to collaborate for interesting projects
+- :dart: Graduated with honors as MSc.student @ University of Pisa <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
